@@ -17,21 +17,32 @@
      <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.html5.min.js"></script>
      <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.print.min.js"></script>
 
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+
 </head>
 <body>
-    <h2>Users Yajra Datatable</h2>
 
-    <table class="table" id="users-table">
-        <thead>
-            <tr>
-                <td width="10">#</td>
-                <th>Name</th>
-                <th>Email</th>
-                <th>Created</th>
-                <th>Action</th>
-            </tr>
-        </thead>
-    </table>
+    <div class="container">
+        <div class="card border-primary mt-3 mb-3">
+            <div class="card-header">
+                Users Yajra Datatable
+            </div>
+            <div class="card-body">
+                <table class="table" id="users-table">
+                    <thead>
+                        <tr>
+                            <td width="10">#</td>
+                            <th>Name</th>
+                            <th>Email</th>
+                            <th>Created</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
 
 
     <script>
