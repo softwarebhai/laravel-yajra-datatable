@@ -1,23 +1,15 @@
-# 📌 Project Name
+## Laravel User List with Yajra DataTables | Full Setup with Demo Data | SoftwareBhai Tech
 
-Laravel User List with Yajra DataTables | Full Setup with Demo Data
+In this tutorial, I’ll guide you step-by-step on how to build a fully functional Laravel User List using Yajra DataTables — step by step — in this in-depth tutorial by SoftwareBhai Tech .
+This guide walks you through every stage of integrating Yajra DataTables into a Laravel application to display and manage user data efficiently using server-side processing .
 
----
+- [Read Full Documentation](https://www.softwarebhai.com/laravel-user-list-with-yajra-datatables-full-setup).
 
-## 📸 Project Output
+### Video Tutorial
 
-![Project Screenshot] https://www.softwarebhai.com/image/catalog/youtube/mini_project/Add-Bootstrap-YajraDataTables.jpg
+- **[Laravel User List with Yajra DataTables | Full Setup with Demo Data](https://www.youtube.com/watch?v=Urc2xA_AbD4)**
 
----
 
-## 🎥 Demo Video
+## SoftwareBhai Tech
 
-[![Watch on YouTube](https://img.youtube.com/vi/Urc2xA_AbD4&t=1223s/0.jpg)](https://www.youtube.com/watch?v=Urc2xA_AbD4&t=1223s)
-
----
-
-## ⚙️ How to Run Locally
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+SoftwareBhai - Latest Web Development & Tech Trends | Tutorials & Insights [softwarebhai.com](https://www.softwarebhai.com).
